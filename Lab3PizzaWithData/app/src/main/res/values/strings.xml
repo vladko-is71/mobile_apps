@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab3PizzaWithData</string>
+    <string name="main_parametre">Delivery address</string>
+    <string name="parametre_1">Size</string>
+    <string name="radio_small">30cm</string>
+    <string name="radio_big">45cm</string>
+    <string name="parametre_2">Type</string>
+    <string name="margherita">Margherita pizza</string>
+    <string name="four_cheese">Four-cheese pizza</string>
+    <string name="ok">OK</string>
+    <string name="log">LOG</string>
+    <string name="no_orders">There were no orders previously!</string>
+</resources>
